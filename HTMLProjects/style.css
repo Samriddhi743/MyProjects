@@ -16,7 +16,7 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgb(228, 201, 112),rgb(221, 115, 115));
+    background-image: linear-gradient( to bottom right, rgb(216, 192, 114),rgb(221, 115, 115));
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
     width: auto;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px #000;
+    box-shadow: 0 0 30px #050505;
 }
 
 .theme-toggler {
